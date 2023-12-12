@@ -1,0 +1,21 @@
+,restaurant_id,restaurant_name,rating,city_id
+0,1,Campus Bakers,4.3,1
+1,2,Grameen Kulfi,4.5,1
+2,3,OMG Cafe,4.2,2
+3,4,Brijwasi Pure Veg,4.2,2
+4,5,Le 15 Patisserie,4.6,3
+5,6,Cake Factory,3.0,3
+6,7,Snackos Resto Cafe,3.6,4
+7,8,ChappatiKings,4.2,4
+8,9,Shree Desi Vyanjan,3.8,5
+9,10,Cake My Day,4.6,5
+10,11,The Beach Story,3.9,6
+11,12,Angrezi Chef,3.8,7
+12,13,Hotel Kohinoor Food Court,3.5,8
+13,14,MBA Chaiwala,3.7,9
+14,15,Vignesh Bhavan,4.3,10
+15,16,Little Big Cafe & Kitchen,4.2,11
+16,17,The Momo Hut,3.6,12
+17,18,Nazeer Foods,4.1,13
+18,19,Sai Leela Snacks Corner,4.3,14
+19,20,Snacks Junction,4.1,15
